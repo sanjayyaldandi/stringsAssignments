@@ -1,6 +1,6 @@
 let input = process.argv[2];
 
-let vowels = "bcdfghjklmnpqrstvwxyz";
+let vowels = "aeiou";
 let count = 0;
 
 for(let index=0;index<vowels.length;index++){
